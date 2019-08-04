@@ -1,0 +1,1 @@
+recycler view and cardview was added then the app is not working indicating that there is and error in mainactivity
